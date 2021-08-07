@@ -1,5 +1,4 @@
 #Demo Project README
 
 this is simple readme file
-dhgfj fgj hdgf hdgf 
-hassan Ali rana 
+something is going on
